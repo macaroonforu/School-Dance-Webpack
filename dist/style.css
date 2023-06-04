@@ -1,0 +1,21 @@
+.header{
+    color: green; 
+}
+
+nav{
+    display: flex; 
+    align-items: center; 
+    justify-content: space-around; 
+}
+
+.links {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-around; 
+    width: 30%; 
+    letter-spacing: 2px; 
+}
+
+ul{
+    list-style-type: none; 
+}
