@@ -43,7 +43,7 @@ header{
     justify-content: center; 
     align-items: center; 
     height: 10vh; 
-    background: url(./images/disco.avif);
+    background: url(images/disco.jpg);
     
 }
 
@@ -110,15 +110,13 @@ nav{
 div>p {
     font-size: 2rem; 
     font-family: 'Rubik Mono One', sans-serif; 
-    /*font-family: 'Gruppo', sans-serif;*/
     color: white; 
-
 }
 
 .home{
     height: 66vh; 
     background-size: 76%; 
-    background: url(./images/disco4.jpg);
+    background: url(images/disco4.jpg);
     opacity: 70%
 }
 
@@ -137,6 +135,10 @@ div>p {
 
 .down{
     align-self: flex-end; 
+}
+
+.main-div{
+    height: 76vh; 
 }
 
 
@@ -161,7 +163,11 @@ iframe{
     font-weight: bold; 
 }
 
-li:hover{
+.active{
+    color: lime; 
+}
+
+button:hover{
     font-weight: bold;  
     color: yellow; 
 }
