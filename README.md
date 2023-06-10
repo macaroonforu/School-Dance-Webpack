@@ -8,3 +8,5 @@ To improve:
 - Need to add content to the tickets and contact us page
 - Need to make the code cleaner because it was written in a rush. 
 
+See this website to push new changes: https://gist.github.com/cobyism/4730490
+
